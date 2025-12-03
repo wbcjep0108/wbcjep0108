@@ -1,4 +1,4 @@
-<h3 align="center">BSIT Student | Future Web Developer | Soon-to-be Professor | NU Manila</h3>
+<h3 align="center">BSIT - MWA Student | Future Web Developer | Soon-to-be Professor | NU Manila</h3>
 
 ---
 
