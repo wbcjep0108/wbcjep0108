@@ -4,6 +4,7 @@
 
 ## 🚀 About Me
 
+-❤️ Proud boyfriend to **Jennifer E. Pascual**, together since **January 8, 2025**
 - 🎓 Currently taking **Bachelor of Science in Information Technology with specialization in Mobile & Web Application** at **National University Manila**
 - 💻 Aspiring **professional web developer** (future front-end/back-end wizard)
 - 🎯 Dreaming big: **Master’s degree + become a professor at NU*
