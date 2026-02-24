@@ -28,6 +28,7 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![WAMP](https://img.shields.io/badge/WAMPServer-FF4081?style=for-the-badge&logo=serverfault&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ---
 
@@ -35,6 +36,4 @@
 
 - 🧩 Web + Mobile dev projects  
 - 🗄️ Database-driven apps (PHP, MySQL, Java)  
-- 🧪 Debugging everything (including life sometimes)
-
-
+- 🧪 Debugging everything
