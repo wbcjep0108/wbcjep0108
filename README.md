@@ -12,6 +12,8 @@
 ---
 ## Tech Stack
 
+<div align="center">
+
 ### Web Development  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
@@ -41,7 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50"/>
 </p>
 
-
+</div>
 
 ---
 
