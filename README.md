@@ -1,4 +1,4 @@
-<h3 align="center">BSIT - MWA Student | Future Web Developer | Soon-to-be Professor | NU Manila</h3>
+<h3 align="center">BSIT - MWA Student | Future Web Developer | NU Manila</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 - In relationship with **Jennifer E. Pascual**, since **January 8, 2025**
 - Currently taking **Bachelor of Science in Information Technology with specialization in Mobile & Web Application** at **National University Manila**
 - Aspiring **professional web developer** (future front-end/back-end wizard)
-- Dreaming big: **Master’s degree + become a professor at NU**
+- Dreaming big: **Master’s degree at NU**
 
 ---
 ## Tech Stack
