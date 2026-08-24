@@ -7,6 +7,7 @@
 - In relationship with **Jennifer E. Pascual**, since **January 8, 2025**
 - **AWS Club** Legarda
 - Currently taking **Bachelor of Science in Information Technology with specialization in Mobile & Web Application** at **National University Manila**
+- **NU Wizards Circle**
 - Aspiring **professional web developer** (future front-end/back-end)
 
 ---
