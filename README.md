@@ -5,10 +5,10 @@
 ## About Me
 
 - In relationship with **Jennifer E. Pascual**, since **January 8, 2025**
-- **AWS Club** Legarda
 - Currently taking **Bachelor of Science in Information Technology with specialization in Mobile & Web Application** at **National University Manila**
 - **NU Wizards Circle**
-- Aspiring **professional web developer** (future front-end/back-end)
+- **AWS Club** Legarda
+- Aspiring **professional web and app developer** 
 
 ---
 ## Tech Stack
@@ -45,6 +45,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" alt="Android Studio" title="Android Studio"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" title="Git"/>
     <img src="https://skillicons.dev/icons?i=vercel" width="50" alt="Vercel" title="Vercel"/>
+    <img src="https://cdn.simpleicons.org/resend" width="50" alt="Resend" title="Resend"/>
+    <img src="https://cdn.simpleicons.org/brevo" width="50" alt="Brevo" title="Brevo"/>
+    
   </p>
 
   <h3>AI-Powered IDEs & Coding Tools</h3>
@@ -54,10 +57,6 @@
     <img src="https://www.google.com/s2/favicons?sz=128&domain_url=https%3A%2F%2Fkiro.dev" width="50" alt="Kiro" title="Kiro"/>
   </p>
 
-  <h3>Email API</h3>
-  <p>
-    <img src="https://cdn.simpleicons.org/resend" width="50" alt="Resend" title="Resend"/>
-  </p>
 
 </div>
 
