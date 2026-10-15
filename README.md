@@ -36,6 +36,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL" title="MySQL"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL" title="PostgreSQL"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" alt="Microsoft SQL Server" title="Microsoft SQL Server"/>
+    <img src="https://cdn.simpleicons.org/firebase" width="50" alt="Firebase" title="Firebase"/>
+
   </p>
 
   <h3>Development Tools & Platforms</h3>
@@ -47,6 +49,8 @@
     <img src="https://skillicons.dev/icons?i=vercel" width="50" alt="Vercel" title="Vercel"/>
     <img src="https://cdn.simpleicons.org/resend" width="50" alt="Resend" title="Resend"/>
     <img src="https://cdn.simpleicons.org/brevo" width="50" alt="Brevo" title="Brevo"/>
+    <img src="https://cdn.simpleicons.org/cloudflare" width="50" alt="Cloudflare" title="Cloudflare"/>
+    <img src="https://cdn.simpleicons.org/cloudinary" width="50" alt="Cloudinary" title="Cloudinary"/>
     
   </p>
 
