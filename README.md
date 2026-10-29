@@ -36,6 +36,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL" title="MySQL"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL" title="PostgreSQL"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" alt="Microsoft SQL Server" title="Microsoft SQL Server"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" alt="Redis" title="Redis"/>
     <img src="https://cdn.simpleicons.org/firebase" width="50" alt="Firebase" title="Firebase"/>
 
   </p>
